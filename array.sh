@@ -1,6 +1,6 @@
 #!/bin/bash
 
-declare -a arr
+
 arr=('My' 'Name' 'is' 'Techaccker')
 
 declare -A assoc_arr
