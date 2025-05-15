@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Rohan**
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub: [YourGitHubUsername](https://github.com/rohandeb2)
 
 ---
 
