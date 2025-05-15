@@ -1,0 +1,11 @@
+PING www.google.com (142.250.70.68) 56(84) bytes of data.
+64 bytes from pnbomb-ab-in-f4.1e100.net (142.250.70.68): icmp_seq=1 ttl=117 time=53.3 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 53.342/53.342/53.342/0.000 ms
+PING localhost.com (74.125.224.72) 56(84) bytes of data.
+
+--- localhost.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
